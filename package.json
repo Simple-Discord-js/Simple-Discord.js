@@ -1,6 +1,6 @@
 {
-  "name": "simple-discord.js",
-  "version": "1.0.0",
+  "name": "@amtixdev/simple-discord.js",
+  "version": "0.0.2-beta",
   "description": "A simplified Discord.js library for beginners.",
   "main": "sdjs-main.js",
   "scripts": {
